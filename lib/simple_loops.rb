@@ -29,7 +29,11 @@ def return_string_array (array)
   while counter < array.length do
     new_arr.push(array[counter])
     counter += 1
-end 
+  end
+ return new_arr
+end
+
+
 
 
 
