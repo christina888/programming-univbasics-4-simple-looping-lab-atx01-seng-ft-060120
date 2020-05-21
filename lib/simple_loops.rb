@@ -27,7 +27,7 @@ def return_string_array (array)
   new_arr = []
   counter = 0 
   while counter < array.length do
-    
+    new_arr.push()
 end 
 
 
