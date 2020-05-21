@@ -25,6 +25,7 @@ end
 
 def return_string_array (array)
   new_arr = []
+  counter = 0 
   
 end 
 
